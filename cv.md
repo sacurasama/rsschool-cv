@@ -4,7 +4,7 @@ Junior Frontend Developer
 ### Contact information:
 - Phone: +7 981 699 87 79
 - E-mail: sacurasama@gmail.com  
-- Telegram: @divinacomedia Behance
+- Telegram: @divinacomedia 
 ---
 ### About Me
 I have been working as illustrator for the past few years/ However, I experienced a complete burnout, and realized I could not stand such a working environment anymore. So, I decided to pursue my career in web development. Here I am at Rs School ready to study Front End.
