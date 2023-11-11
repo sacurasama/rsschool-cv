@@ -14,22 +14,23 @@ My core strengths are planning skills, fast learning and patience.
 
 ---
 ### Skills
-* HTML
-* CSS 
-* JavaScript (Fundamentals)
-* Git/GitHub
-* Adobe Photoshop, Illustrator, Figma
+- HTML
+- CSS 
+- JavaScript (Fundamentals)
+- Git/GitHub
+- Adobe Photoshop, Illustrator, Figma
 
 ---
 ### Code example:
-``` function evenOrOdd(number) {
+
+```    function evenOrOdd(number) {
   if (number % 2 === 0){
     return "Even";
   }else{
     return "Odd";
   }
 }
- ```
+```
 
 ---
 ### Education:
