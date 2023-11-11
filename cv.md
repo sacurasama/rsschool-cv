@@ -1,7 +1,7 @@
 # Anastasia Yarmolinskaya
 Junior Frontend Developer
----
 
+---
 ### Contact information:
 - Phone: +7 981 699 87 79
 - E-mail: sacurasama@gmail.com  
@@ -19,17 +19,17 @@ My core strengths are planning skills, fast learning and patience.
 * JavaScript (Fundamentals)
 * Git/GitHub
 * Adobe Photoshop, Illustrator, Figma
----
 
+---
 ### Code example:
-```function evenOrOdd(number) {
+``` function evenOrOdd(number) {
   if (number % 2 === 0){
     return "Even";
   }else{
     return "Odd";
   }
 }
-```
+ ```
 
 ---
 ### Education:
