@@ -7,7 +7,7 @@ Junior Frontend Developer
 - Telegram: @divinacomedia 
 ---
 ### About Me
-I have been working as illustrator for the past few years/ However, I experienced a complete burnout, and realized I could not stand such a working environment anymore. So, I decided to pursue my career in web development. Here I am at Rs School ready to study Front End.
+I have been working as illustrator for the past few years. However, I experienced a complete burnout, and realized I could not stand such a working environment anymore. So, I decided to pursue my career in web development. Here I am at Rs School ready to study Front End.
 My core strengths are planning skills, fast learning and patience. 
 
 ---
