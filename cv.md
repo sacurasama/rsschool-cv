@@ -35,6 +35,8 @@ My core strengths are planning skills, fast learning and patience.
 ---
 ### Education:
 * #### University Of the Humanities and Social Sciences
+* #### Udemy
+* Build responsive Real-World Websites with HTML and CSS
 * #### SkillsUp School 
 *Basic drawing and 2D*
 * #### http://www.codecademy.com/
@@ -44,3 +46,4 @@ My core strengths are planning skills, fast learning and patience.
 ### Languages
 * Russian - native speaker.
 * English - B2
+* Chinese - HSK 1
