@@ -1,1 +1,90 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  color: #101010;
+  font-weight: 300;
+}
+
+.conteiner {
+  height: 842px;
+  width: 595px;
+  margin: 36px auto;
+  background: no-repeat url(img/Paper.png);
+  padding-top: 36px;
+}
+
+.inner-conteiner {
+  height: 746px;
+  width: 499px;
+  background-color: rgb(220, 94, 53, 0.7);
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  padding-top: 36px;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 8px;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.contacts,
+.education,
+.about-me,
+.code-example {
+  list-style: none;
+  font-size: 12px;
+}
+
+.university,
+.courses,
+.languages,
+.skills {
+  margin-bottom: 18px;
+}
+
+li,
+p {
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 35px;
+  padding: 35px;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer__github {
+  justify-self: end;
+}
 
